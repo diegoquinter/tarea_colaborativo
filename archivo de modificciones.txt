@@ -1,3 +1,11 @@
 este archivo sera utlizado para emular modificaciones en el proyecto colaborativo.
 
 Diego Quintero Robles 
+
+Ian Mauricio González
+
+El repositorio remoto se puede encontrar en las url's
+
+https://github.com/diegoquinter/tarea_colaborativo
+https://github.com/Ianmglez/tarea_colaborativo
+
